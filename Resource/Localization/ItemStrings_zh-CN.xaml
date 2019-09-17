@@ -251,10 +251,10 @@
 
     <!-- Yordle -->
     <s:String x:Key="ClassOrigins_Yordle" xml:space="preserve">约德尔人</s:String>
-    <s:String x:Key="ClassOrigins_Yordle_Describe1" xml:space="preserve">友方约德尔人有一定几率闪避攻击和(</s:String>
+    <s:String x:Key="ClassOrigins_Yordle_Describe1" xml:space="preserve">友方约德尔人有一定几率闪避攻击和</s:String>
     <s:String x:Key="ClassOrigins_Yordle_Describe2" xml:space="preserve">攻击特效</s:String>
-    <s:String x:Key="ClassOrigins_Yordle_Describe3" xml:space="preserve">35%几率闪避(3)  60%几率闪避(6)  100%几率闪避(9)</s:String>
-
+    <s:String x:Key="ClassOrigins_Yordle_Describe3" xml:space="preserve">35%几率闪避(3)  60%几率闪避(6)</s:String>  
+    <s:String x:Key="ClassOrigins_Yordle_Describe4" xml:space="preserve">100%几率闪避(9)</s:String>
     <!--Classes | Effects and Champions-->
     <s:String x:Key="ClassOrigins_Classes" xml:space="preserve">职业 | 羁绊效果</s:String>
 
@@ -353,7 +353,7 @@
     <s:String x:Key="ClassOrigins_Sorcerer_Describe8" xml:space="preserve">技能伤害</s:String>
     <s:String x:Key="ClassOrigins_Sorcerer_Describe9" xml:space="preserve">(6)  +175%</s:String>
     <s:String x:Key="ClassOrigins_Sorcerer_Describe10" xml:space="preserve">技能伤害</s:String>        
-    <s:String x:Key="ClassOrigins_Sorcerer_Describe11" xml:space="preserve">(9)
+    <s:String x:Key="ClassOrigins_Sorcerer_Describe11" xml:space="preserve">(9)  </s:String>
 
 <!--/////////////////-->
     <!--Charts-->
