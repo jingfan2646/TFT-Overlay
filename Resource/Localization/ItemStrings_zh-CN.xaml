@@ -74,7 +74,7 @@
     <s:String x:Key="IcebornGauntlet1" xml:space="preserve">&#10;躲避成功时，生成一个扩展的冰封区域，降低敌人30%攻速</s:String>
     <!--Infinity Edge-->
     <s:String x:Key="InfinityEdge" xml:space="preserve">无尽之刃</s:String>
-    <s:String x:Key="InfinityEdge1" xml:space="preserve">&#10;+150%暴击伤害</s:String>
+    <s:String x:Key="InfinityEdge1" xml:space="preserve">&#10;+200%暴击伤害</s:String>
     <!--Ionic Spark-->
     <s:String x:Key="IonicSpark" xml:space="preserve">离子火花</s:String>
     <s:String x:Key="IonicSpark1" xml:space="preserve">&#10;每当敌人使用技能，他们受到150点真实伤害</s:String>
@@ -137,13 +137,13 @@
     <s:String x:Key="ThiefsGloves1" xml:space="preserve">&#10;携带者不能装备其它装备。准备阶段，暂时获得2件装备，品质取决于自身等级</s:String>
     <!--Thornmail-->
     <s:String x:Key="Thornmail" xml:space="preserve">荆棘之甲</s:String>
-    <s:String x:Key="Thornmail1" xml:space="preserve">&#10;反弹所受到伤害的100%的魔法伤害</s:String>
+    <s:String x:Key="Thornmail1" xml:space="preserve">&#10;反弹所受到伤害的100%的真实伤害</s:String>
     <!--Titanic Hydra-->
     <s:String x:Key="TitanicHydra" xml:space="preserve">巨型九头蛇</s:String>
     <s:String x:Key="TitanicHydra1" xml:space="preserve">&#10;攻击对敌人造成携带者10%最大生命值的溅射伤害</s:String>
     <!--Warmog's Armor-->
     <s:String x:Key="WarmogsArmor" xml:space="preserve">狂徒铠甲</s:String>
-    <s:String x:Key="WarmogsArmor1" xml:space="preserve">&#10;每秒恢复6%已损失生命值</s:String>
+    <s:String x:Key="WarmogsArmor1" xml:space="preserve">&#10;每秒恢复8%已损失生命值</s:String>
     <!--Zeke's Herald-->
     <s:String x:Key="ZekesHerald" xml:space="preserve">基克的先驱</s:String>
     <s:String x:Key="ZekesHerald1" xml:space="preserve">&#10;为持有者左右两格内的英雄提供15%攻速</s:String>
