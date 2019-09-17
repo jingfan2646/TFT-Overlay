@@ -23,8 +23,8 @@
     <s:String x:Key="KnightsVow" xml:space="preserve">骑士之誓</s:String>
     <s:String x:Key="KnightsVow1" xml:space="preserve">&#10;携带者也是骑士单位</s:String>
     <!--Mittens-->
-    <s:String x:Key="Mittens" xml:space="preserve">Mittens</s:String>
-    <s:String x:Key="Mittens1" xml:space="preserve">&#10;Wearer is also a Yordle</s:String>
+    <s:String x:Key="Mittens" xml:space="preserve">连指手套</s:String>
+    <s:String x:Key="Mittens1" xml:space="preserve">&#10;携带者也是一名约德尔人</s:String>
     <!--Runaan's Hurricane-->
     <s:String x:Key="RunaansHurricane" xml:space="preserve">卢安娜的飓风</s:String>
     <s:String x:Key="RunaansHurricane1" xml:space="preserve">&#10;普攻对额外1个目标造成伤害，额外攻击造成75%的伤害，附带普攻特效</s:String>
