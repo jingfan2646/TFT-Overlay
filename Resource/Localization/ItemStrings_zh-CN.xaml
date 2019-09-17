@@ -107,7 +107,7 @@
     <s:String x:Key="RabadonsDeathcap1" xml:space="preserve">&#10;增加50%技能伤害</s:String>
     <!--Rapid Firecannon-->
     <s:String x:Key="RapidFirecannon" xml:space="preserve">疾射火炮</s:String>
-    <s:String x:Key="RapidFirecannon1" xml:space="preserve">&#10;携带者的攻击不会被闪避,攻击距离翻倍</s:String>
+    <s:String x:Key="RapidFirecannon1" xml:space="preserve">&#10;携带者的攻击距离翻倍</s:String>
     <!--Red Buff-->
     <s:String x:Key="RedBuff" xml:space="preserve">红色增益</s:String>
     <s:String x:Key="RedBuff1" xml:space="preserve">&#10;攻击造成2.5%燃烧伤害，并阻止生命回复</s:String>
