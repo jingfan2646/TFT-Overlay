@@ -7,8 +7,8 @@
     <!--&#10; = LineBreak-->
     <!--/////////////////-->
     <!--Berserker Axe-->
-    <s:String x:Key="BerserkerAxe" xml:space="preserve">Berserker Axe</s:String>
-    <s:String x:Key="BerserkerAxe1" xml:space="preserve">&#10;Wearer is also a Berserker</s:String>
+    <s:String x:Key="BerserkerAxe" xml:space="preserve">狂战士之斧</s:String>
+    <s:String x:Key="BerserkerAxe1" xml:space="preserve">&#10;佩戴者也是一个狂战士</s:String>
     <!--Blade of the Ruined King-->
     <s:String x:Key="BOTRK" xml:space="preserve">破败王者之刃</s:String>
     <s:String x:Key="BOTRK1" xml:space="preserve">&#10;携带者也是剑士</s:String>
@@ -22,14 +22,14 @@
     <s:String x:Key="FrozenMallet" xml:space="preserve">冰霜之锤</s:String>
     <s:String x:Key="FrozenMallet1" xml:space="preserve">&#10;装备者也视为极地</s:String>
     <!--Inferno Cinder-->
-    <s:String x:Key="InfernoCinder" xml:space="preserve">Inferno Cinder</s:String>
-    <s:String x:Key="InfernoCinder1" xml:space="preserve">&#10;Wearer is also an Inferno</s:String>
+    <s:String x:Key="InfernoCinder" xml:space="preserve">地狱火熔渣</s:String>
+    <s:String x:Key="InfernoCinder1" xml:space="preserve">&#10;佩戴者也视为炼狱</s:String>
     <!--Knight's Vow-->
     <s:String x:Key="KnightsVow" xml:space="preserve">骑士之誓</s:String>
     <s:String x:Key="KnightsVow1" xml:space="preserve">&#10;携带者也是骑士单位</s:String>
     <!--Mage's Cap-->
-    <s:String x:Key="MagesCap" xml:space="preserve">Mage's Cap</s:String>
-    <s:String x:Key="MagesCap1" xml:space="preserve">&#10;Wearer is also a Mage</s:String>
+    <s:String x:Key="MagesCap" xml:space="preserve">法师之帽</s:String>
+    <s:String x:Key="MagesCap1" xml:space="preserve">&#10;佩戴者也视为法师</s:String>
     <!--Mittens-->
     <s:String x:Key="Mittens" xml:space="preserve">连指手套</s:String>
     <s:String x:Key="Mittens1" xml:space="preserve">&#10;携带者也是一名约德尔人</s:String>
@@ -37,11 +37,11 @@
     <s:String x:Key="RunaansHurricane" xml:space="preserve">卢安娜的飓风</s:String>
     <s:String x:Key="RunaansHurricane1" xml:space="preserve">&#10;普攻对额外1个目标造成伤害，额外攻击造成75%的伤害，附带普攻特效</s:String>
     <!--Talisman Of Light-->
-    <s:String x:Key="TalismanOfLight" xml:space="preserve">Talisman Of Light</s:String>
-    <s:String x:Key="TalismanOfLight1" xml:space="preserve">&#10;Wearer is also a Light</s:String>
+    <s:String x:Key="TalismanOfLight" xml:space="preserve">光之护符</s:String>
+    <s:String x:Key="TalismanOfLight1" xml:space="preserve">&#10;佩戴者也视为光</s:String>
     <!--Warden's Mail-->
-    <s:String x:Key="WardensMail" xml:space="preserve">Warden's Mail</s:String>
-    <s:String x:Key="WardensMail1" xml:space="preserve">&#10;Wearer is also a Warden</s:String>
+    <s:String x:Key="WardensMail" xml:space="preserve">守护神板甲</s:String>
+    <s:String x:Key="WardensMail1" xml:space="preserve">&#10;佩戴者也视为守护神</s:String>
     <!--Youmuu's Ghostblade-->
     <s:String x:Key="YoumuusGhostblade" xml:space="preserve">幽梦之灵</s:String>
     <s:String x:Key="YoumuusGhostblade1" xml:space="preserve">&#10;携带者也是刺客单位</s:String>
@@ -272,8 +272,8 @@
     <s:String x:Key="Origins_Shadow_Describe2" xml:space="preserve">(2) 自身 50% 的伤害 (4) 全体风影英雄100%的伤害</s:String>
 
     <!-- Steel -->
-    <s:String x:Key="Origins_Steel" xml:space="preserve">合金</s:String>
-    <s:String x:Key="Origins_Steel_Describe1" xml:space="preserve">合金英雄生命值低于 50% 时，获得免疫伤害，持续</s:String>
+    <s:String x:Key="Origins_Steel" xml:space="preserve">钢铁</s:String>
+    <s:String x:Key="Origins_Steel_Describe1" xml:space="preserve">钢铁英雄生命值低于 50% 时，获得免疫伤害，持续</s:String>
     <s:String x:Key="Origins_Steel_Describe2" xml:space="preserve">(2) 2 秒 (3) 3 秒 (4) 4 秒</s:String>
 
     <!-- Variable -->
